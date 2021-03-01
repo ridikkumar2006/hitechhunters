@@ -1,0 +1,27 @@
+body{
+text-align:center;
+background-color:#312c51;
+}
+h1{
+font-size:5em;
+color:#f1aa9b;
+
+}
+h2{
+font-size:2em;
+color:#f0c38e;
+}
+h3{
+font-size:2em;
+color:#f0c38e;
+}
+img{
+width:50em;
+}
+a{
+ text-decoration:none;
+ color:#1a508b;
+}
+a:hover{
+color:red;
+}
